@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://R-kura.github.io/categories/</loc>
+    <loc>https://R-kura.github.io/</loc>
+    <lastmod>2019-12-16T14:15:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://R-kura.github.io/</loc>
+    <loc>https://R-kura.github.io/post/</loc>
+    <lastmod>2019-12-16T14:15:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-kura.github.io/post/test/</loc>
+    <lastmod>2019-12-16T14:15:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-kura.github.io/categories/</loc>
   </url>
   
   <url>
